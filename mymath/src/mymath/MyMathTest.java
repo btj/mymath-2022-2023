@@ -1,4 +1,4 @@
-package sqrt;
+package mymath;
 
 import static org.junit.jupiter.api.Assertions.*;
 
